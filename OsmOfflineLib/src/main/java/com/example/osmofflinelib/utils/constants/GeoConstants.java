@@ -1,7 +1,7 @@
 // Created by plusminus on 17:41:55 - 16.10.2008
 package com.example.osmofflinelib.utils.constants;
 
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 
 public interface GeoConstants {
     // ===========================================================

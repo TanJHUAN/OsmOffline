@@ -3,7 +3,7 @@ package com.example.osmofflinelib.views;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.views.overlay.infowindow.BasicInfoWindow;
 import com.example.osmofflinelib.views.overlay.infowindow.InfoWindow;
 import com.example.osmofflinelib.views.overlay.infowindow.MarkerInfoWindow;

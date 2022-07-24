@@ -8,7 +8,7 @@ import android.graphics.Point;
 import android.graphics.drawable.BitmapDrawable;
 import android.view.MotionEvent;
 
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 
 /**
  * @author Fabrice Fontaine

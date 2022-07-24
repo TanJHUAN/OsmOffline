@@ -11,7 +11,7 @@ import android.graphics.Paint.Style;
 import android.graphics.Point;
 import android.graphics.drawable.BitmapDrawable;
 
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.utils.GeoPoint;
 import com.example.osmofflinelib.views.MapView;
 import com.example.osmofflinelib.views.Projection;

@@ -6,7 +6,7 @@ import android.graphics.drawable.Drawable;
 import android.view.MotionEvent;
 
 import com.example.osmofflinelib.api.IMapView;
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.views.MapView;
 
 import java.util.List;

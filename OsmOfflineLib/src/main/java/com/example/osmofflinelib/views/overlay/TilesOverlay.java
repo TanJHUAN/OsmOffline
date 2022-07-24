@@ -16,9 +16,9 @@ import android.view.MenuItem;
 import android.view.SubMenu;
 import android.widget.Toast;
 
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.api.IMapView;
 import com.example.osmofflinelib.config.Configuration;
-import com.example.osmofflinelib.library.R;
 import com.example.osmofflinelib.tileprovider.BitmapPool;
 import com.example.osmofflinelib.tileprovider.MapTileProviderBase;
 import com.example.osmofflinelib.tileprovider.ReusableBitmapDrawable;

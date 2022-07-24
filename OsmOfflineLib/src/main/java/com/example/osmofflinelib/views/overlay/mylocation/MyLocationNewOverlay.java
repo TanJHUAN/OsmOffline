@@ -26,7 +26,7 @@ import androidx.core.app.ActivityCompat;
 import com.example.osmofflinelib.api.IMapController;
 import com.example.osmofflinelib.api.IMapView;
 import com.example.osmofflinelib.config.Configuration;
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.utils.GeoPoint;
 import com.example.osmofflinelib.utils.TileSystem;
 import com.example.osmofflinelib.views.MapController;

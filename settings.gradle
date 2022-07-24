@@ -1,0 +1,3 @@
+rootProject.name = "OsmOffline"
+include ':app'
+include ':OsmOfflineLib'

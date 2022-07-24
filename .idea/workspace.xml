@@ -5,6 +5,9 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -12,7 +15,8 @@
     <list default="true" id="faa9f8ec-5058-405f-8265-cf0cb2ee57e4" name="Changes" comment="删除文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OsmOfflineLib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OsmOfflineLib/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OsmOfflineLib/jitpack.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +79,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.6109375" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
@@ -183,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658632411124</updated>
       <workItem from="1658632412253" duration="14159000" />
-      <workItem from="1658667785237" duration="5245000" />
+      <workItem from="1658667785237" duration="7190000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置">
       <created>1658653334905</created>
@@ -297,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658672569930</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="删除文件">
+      <created>1658673129556</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658673129556</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

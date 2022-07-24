@@ -13,8 +13,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.gitee.xiaweifeng'//插件id，格式：com.gitee/github.用户名
-                artifactId = 'JitPackTest11'//插件名称
+                groupId = 'com.github.TanJHUAN'//插件id，格式：com.gitee/github.用户名
+                artifactId = 'OsmOfflineLib'//插件名称
                 version = '1.0'//版本号
                 //引用使用格式：implementation 'com.gitee.xiaweifeng:JitPackTest11:1.0'
             }
@@ -25,8 +25,8 @@ afterEvaluate {
                 name('jitpack')
                 url "https://jitpack.io"
                 credentials {
-                    username gitUser
-                    password gitPassWord
+                    username = gitUser
+                    password = gitPassWord
                 }
             }
         }

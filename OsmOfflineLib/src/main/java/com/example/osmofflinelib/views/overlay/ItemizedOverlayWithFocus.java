@@ -11,7 +11,7 @@ import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
 import android.util.TypedValue;
 
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.views.MapView;
 import com.example.osmofflinelib.views.Projection;
 import com.example.osmofflinelib.views.overlay.OverlayItem.HotspotPlace;

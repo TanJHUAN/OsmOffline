@@ -18,7 +18,7 @@ import android.view.MenuItem;
 import android.view.Surface;
 import android.view.WindowManager;
 
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.views.MapView;
 import com.example.osmofflinelib.views.Projection;
 import com.example.osmofflinelib.views.overlay.IOverlayMenuProvider;

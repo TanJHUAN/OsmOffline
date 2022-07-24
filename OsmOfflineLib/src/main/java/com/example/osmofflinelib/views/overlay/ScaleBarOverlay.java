@@ -11,7 +11,7 @@ import android.util.DisplayMetrics;
 import android.view.WindowManager;
 
 import com.example.osmofflinelib.api.IGeoPoint;
-import com.example.osmofflinelib.library.R;
+import com.example.osmofflinelib.R;
 import com.example.osmofflinelib.utils.GeoPoint;
 import com.example.osmofflinelib.utils.constants.GeoConstants;
 import com.example.osmofflinelib.views.MapView;

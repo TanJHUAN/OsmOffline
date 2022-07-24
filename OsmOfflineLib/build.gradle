@@ -25,8 +25,8 @@ afterEvaluate {
                 name('jitpack')
                 url "https://jitpack.io"
                 credentials {
-                    username = gitUser
-                    password = gitPassWord
+                    username gitUser
+                    password gitPassWord
                 }
             }
         }

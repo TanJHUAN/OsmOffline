@@ -10,7 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faa9f8ec-5058-405f-8265-cf0cb2ee57e4" name="Changes" comment="删除文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OsmOfflineLib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OsmOfflineLib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OsmOfflineLib/jitpack.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658632411124</updated>
       <workItem from="1658632412253" duration="14159000" />
-      <workItem from="1658667785237" duration="4733000" />
+      <workItem from="1658667785237" duration="5245000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置">
       <created>1658653334905</created>
@@ -288,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658672212932</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="删除文件">
+      <created>1658672569930</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658672569930</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

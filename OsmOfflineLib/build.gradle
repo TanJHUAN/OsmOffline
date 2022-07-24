@@ -24,13 +24,12 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
 
     kotlinOptions {
-        jvmTarget = '11'
-        useIR = true
+        jvmTarget = '1.8'
     }
 }
 
@@ -49,7 +48,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.example.osmofflinelib'
                 artifactId = 'osmofflinelib'
-                version = '1.1.2'
+                version = '1.1.3'
             }
         }
     }

@@ -4,9 +4,6 @@ plugins {
     id 'maven-publish'
 }
 
-
-
-
 android {
     compileSdkVersion 31
 
@@ -53,8 +50,8 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.example.osmofflinelib'
-                artifactId = 'library'
-                version = '1.0.2'
+                artifactId = 'osmofflinelib'
+                version = '1.0.3'
             }
         }
     }

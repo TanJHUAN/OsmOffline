@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faa9f8ec-5058-405f-8265-cf0cb2ee57e4" name="Changes" comment="删除一些文件">
+    <list default="true" id="faa9f8ec-5058-405f-8265-cf0cb2ee57e4" name="Changes" comment="www">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OsmOfflineLib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OsmOfflineLib/build.gradle" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.6109375" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -182,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658632411124</updated>
       <workItem from="1658632412253" duration="14159000" />
-      <workItem from="1658667785237" duration="3385000" />
+      <workItem from="1658667785237" duration="3751000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置">
       <created>1658653334905</created>
@@ -268,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658670489349</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="www">
+      <created>1658671229376</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658671229376</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +302,7 @@
     <MESSAGE value="jdk版本改为11" />
     <MESSAGE value="openJDK11" />
     <MESSAGE value="删除一些文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除一些文件" />
+    <MESSAGE value="www" />
+    <option name="LAST_COMMIT_MESSAGE" value="www" />
   </component>
 </project>
